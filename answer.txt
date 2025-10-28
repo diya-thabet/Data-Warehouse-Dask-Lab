@@ -1,0 +1,34 @@
+question 1: 
+    -test de perfermance => compare 
+    -reproductivity
+
+    TYPE: Analytical
+
+    diffrent to OLTP, CRUD
+
+
+
+
+
+
+define dask: 
+    dask is a system
+
+
+
+
+
+AI ANSWER: 
+    Q1. What are the benefits of benchmarks for decision support systems technologies? 
+    Short Answer: Benchmarks provide a standardized, repeatable, and objective way to evaluate DSS technologies. They help measure performance, scalability, and efficiency for complex analytical workloads in data warehouses and big data platforms. This enables informed decision-making when choosing technology.
+
+    Q2. Describe TPC-H benchmark (how many tables? how many queries? type of queries? query patterns?).
+    Short Answer: TPC-H is the industry-standard benchmark for decision support systems and data warehouses.
+
+    Tables: It uses 8 relational tables.
+
+    Queries: It involves 22 complex SQL queries.
+
+    Query Type: Queries are business-oriented, ad-hoc, and analytical.
+
+    Query Patterns: Patterns include extensive multi-table joins, subqueries, group-by aggregations, and large-scale data scans. It simulates a typical heavy analytical reporting workload.
